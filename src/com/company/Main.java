@@ -9,6 +9,7 @@ public class Main {
         double weight, height, bmi;
         System.out.print("Your weight (in kilogram):");
         weight = scanner.nextDouble();
+        
 
         System.out.print("Your height (in meter):");
         height = scanner.nextDouble();
